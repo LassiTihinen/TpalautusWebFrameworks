@@ -1,0 +1,4 @@
+.buttonstyle{
+    display: flex;
+    flex-direction: row;
+}

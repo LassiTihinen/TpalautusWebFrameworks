@@ -1,0 +1,145 @@
+.background {
+    margin-top: 16px;
+    background-color: rgba(255, 255, 255, 0.94);
+    display: flex;
+    margin-left: 230px;
+    margin-right: 755px;
+    border-top: 1px solid black;
+}
+
+
+.container {
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+}
+
+.imageSubText {
+    color: black;
+    font-size: 29px;
+    font-weight: 600;
+}
+
+.smallSubText {
+    padding-top: 15px;
+    font-size: 12;
+    font-weight: 400;
+}
+
+.news {
+    font-size: 22px;
+    font-weight: 600;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+
+
+.sideSectionContainer {
+    font-weight: 700;
+    margin-left: 8px;
+    padding-top: 14px;
+    padding-left: 14px;
+    padding-right: 17px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    border-top: 1px solid lightblue;
+    border-bottom: 1px solid lightblue;
+}
+
+.sideSectionTitle {
+    display: flex;
+    flex-direction: row;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.lheader{
+    color: white;
+    text-align: center;
+    display: flex;
+    gap: 30;
+}
+
+.testimi{
+    font-weight: 500;
+    mask-border-source: 50px solid black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .background{
+    margin-top: 16px;
+    background-color: rgb(87, 87, 13);
+    display: flex;
+    margin-left: 230px;
+    margin-right: 1070px;
+}
+
+.pääikkunanuutinen{
+display: flex;
+
+
+}
+
+.sivuikkunanuutinen{
+
+background-color: rgb(34, 10, 10);
+display: flex;
+flex-direction: column;
+} */
+
+
+/*display: flex;
+justify-content: flex-end;
+flex-direction: column;
+margin-left: auto;
+margin-right: auto;
+padding: 14px;
+font-size: large;*/

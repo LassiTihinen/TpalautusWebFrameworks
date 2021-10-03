@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Apex Legends",
+      "publisher": "Electronic Arts",
+      "type": "FPS Battle Royale",
+      "price": 0,
+      "image": "game1.png"
+      
+    },
+    {
+      "id": 2,
+      "name": "CS:GO",
+      "publisher": "Valve Software",
+      "type": "Tactical FPS",
+      "price": 0,
+      "image": "game2.png"
+     
+    },
+    {
+      "id": 3,
+      "name": "Rainbow Six: Siege",
+      "publisher": "Ubisoft",
+      "type": "Tactical FPS",
+      "price": 20.00,
+      "image": "game3.png"
+      
+    },
+    {
+      "id": 4,
+      "name": "Binding of Isaac",
+      "publisher": "Edmund McMullen",
+      "type": "Roguelike",
+      "price": 20.00,
+      "image": "game4.png"
+    },
+    
+    {
+      "id": 5,
+      "name": "Trackmania",
+      "publisher": "Nadeo, Ubisoft",
+      "type": "Arcade Racing Sim",
+      "price": 0,
+      "image": "game5.jpg"
+    }
+
+  ]
+}
